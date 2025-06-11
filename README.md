@@ -1,10 +1,9 @@
-## 코드 리뷰 참여자 목록 
+## 🏃 코드 리뷰 참여자 목록 
 <a href="https://github.com/hanghae-plus-backend-8/pr-code-review/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hanghae-plus-backend-8/pr-code-review" />
 </a>
 
-
-## 코드 리뷰 요청 방법 
+## ✨ 코드 리뷰 요청 방법 
 
 본인이 하고 있는 "토이 프로젝트" 또는 "개인 프로젝트(항해 프로젝트 포함)"의 PR을 코드 리뷰 받고 싶다면 아래의 방법으로 신청해주세요!
 
@@ -13,16 +12,16 @@
 3. PR을 생성하고, 리뷰 받고싶은 리뷰어를 지정합니다. (여러명 가능)
 4. 리뷰 포인트를 작성합니다. (예 : "이 부분의 네이밍이 적절한지 확인해주세요.")
 
-PR 예시 : [#1](https://github.com/hanghae-plus-backend-8/pr-code-review/pull/1)
+> PR 예시 : [#1](https://github.com/hanghae-plus-backend-8/pr-code-review/pull/1)
 
-## 코드 리뷰 진행 방법
+## ⚡️ 코드 리뷰 진행 방법
 
 리뷰어가 지정되지 않으면, 랜덤으로 배정됩니다.
 
 1. 리뷰어(Reviewer)는 PR을 확인하고, 리뷰 PR에 들어가 코드를 리뷰합니다.
 2. 리뷰이(Reviewee)는 리뷰가 완료되면, PR을 머지합니다.
 
-## 코드 리뷰 요청 목록
+## 📌 코드 리뷰 요청 목록
 
 | 날짜         | 리뷰이(Reviewee) | PR 링크                                                |
 |------------|---------------|------------------------------------------------------|
