@@ -27,3 +27,4 @@
 |------------|---------------|------------------------------------------------------|
 | 2025.06.11 | @discphy      | https://github.com/discphy/hhplus-e-commerce/pull/51 |
 
+| 2025.06.11 | @jsween5723      | https://github.com/jsween5723/readable-code/pull/1 |
