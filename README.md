@@ -18,3 +18,4 @@ PR 코드 리뷰 레포 💻
 
 
 
+| 2025.06.11 | @jsween5723      | https://github.com/jsween5723/readable-code/pull/1 |
