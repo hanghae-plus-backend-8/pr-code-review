@@ -1,5 +1,7 @@
 ## 코드 리뷰 참여자 목록 
-
+<a href="https://github.com/hanghae-plus-backend-8/pr-code-review/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hanghae-plus-backend-8/pr-code-review" />
+</a>
 
 
 ## 코드 리뷰 요청 방법 
