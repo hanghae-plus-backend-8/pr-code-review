@@ -1,8 +1,3 @@
-## 🏃 코드 리뷰 참여자 목록 
-<a href="https://github.com/hanghae-plus-backend-8/pr-code-review/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hanghae-plus-backend-8/pr-code-review" />
-</a>
-
 ## ✨ 코드 리뷰 요청 방법 
 
 본인이 하고 있는 "토이 프로젝트" 또는 "개인 프로젝트(항해 프로젝트 포함)"의 PR을 코드 리뷰 받고 싶다면 아래의 방법으로 신청해주세요!
